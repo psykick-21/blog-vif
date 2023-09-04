@@ -1,6 +1,6 @@
 # Variance Inflation factor
 
-Collinearity
-Issues with models having collinearity
-How to find out collinearity (Intro to VIF)
-What is VIF
+Collinearity<br>
+Issues with models having collinearity<br>
+How to find out collinearity (Intro to VIF)<br>
+What is VIF<br>
