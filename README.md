@@ -1,2 +1,6 @@
-# blog-vif
-This repo contains relevant files for the medium blog on VIF
+# Variance Inflation factor
+
+Collinearity
+Issues with models having collinearity
+How to find out collinearity (Intro to VIF)
+What is VIF
